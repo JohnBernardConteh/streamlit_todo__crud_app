@@ -4,7 +4,7 @@ A ToDo List app built with Python, Streamlit and SQLite. Create, view, update an
 <!-- [![Streamlit App](https://static.streamlit.io/badges/
 streamlit_badge_black_white.svg)](https://share.streamlit.io/JohnBernardConteh/streamlit_todo__crud_app/) -->
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/JohnBernardConteh/streamlit_todo__crud_app/)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://jbc-todo-app.streamlit.app/)
 
 #### TODO CRUD APP
 + Create
